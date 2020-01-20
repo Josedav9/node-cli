@@ -4,5 +4,6 @@ This project was created to help me creating a node-express-api scratch project 
 
 ## Future Work
 
-- [ ] Intend to have a `node-cli g route` that create for me all the files related to creating a route for this template
+- [ ] Intend to have a `node-cli g component` that create for me all the files related to creating a route for this template
+- [ ] Allow the user to choose database and library to set a module such as mongoose or sequilize
 - [ ] Create a typescript template as well with the same functionality
